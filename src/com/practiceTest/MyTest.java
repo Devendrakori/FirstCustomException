@@ -1,6 +1,7 @@
 package com.practiceTest;
 
 import java.util.InputMismatchException;
+
 import java.util.Scanner;
 
 import com.practice.MyException;
